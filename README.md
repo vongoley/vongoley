@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in anything that is creative, amazing and exciting.
 
-- Now I wanna develop an mobile app to make my some ideas come true, but I majored in psychology in university that just learned some statistic tools like SPSS; Therefore I’m currently learning lots of things that I need to develop my own app, including:
+- Now I wanna develop an mobile app to make my some ideas come true, but I majored in psychology in university that just taught me some statistic tools like SPSS; Therefore I’m currently learning lots of things that I need to develop my own app, including:
    - front-end programming (HTML5, CSS3, Javascript) to develop Weixin mini program;
    - backend-end programming (Python with Flask) to develop my web service;
    - Linux common operations to config my cloud service with Debian;
