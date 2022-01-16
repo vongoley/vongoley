@@ -8,7 +8,7 @@
    - Linux common operations to config my cloud service with Debian;
    - OLAP database configuration to store and analyse data from app.
 
-- By the way, I'm now a data analyst in IT company, so I'm so good at SQL of OLAP, data processing with Python, use of BI tools (e.g. Power BI, Tableau); More importantly, I master most of knowledges that mobie IT business need, relating to product design, operation, growth, marketing……; And also I have much practical experience on these aspects. 
+- By the way, I'm now a data analyst in IT company, so I'm so good at SQL of OLAP, data processing with Python, use of BI tools (e.g. Power BI, Tableau); More importantly, I master most of knowledges about mobie IT business, relating to product design, operation, growth, marketing……; And also I have much practical experience on these aspects. 
 
 - 💞️ Only myself, it seems to be tough, so I’m looking to collaborate with some people to make good idea done, if we all accept these ideas.
 
