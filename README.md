@@ -12,7 +12,7 @@
 
 - 💞️ Only myself, it seems to be tough, so I’m looking to collaborate with some people to make good idea done, if we all accept these ideas.
 
-- 📫 If you wanna talk to me anything about data work, China IT industry situation, app developing and so on, I will be pleased that you could concat me with email (bowen.von@gmail.com) or Weixin (allenX2077).
+- 📫 If you want to talk to me anything about data work, China IT industry situation, app developing and so on, I will be pleased that you could concat me with email (bowen.von@gmail.com) or Weixin (allenX2077).
 
 <!---
 vongoley/vongoley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
